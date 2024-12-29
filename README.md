@@ -13,3 +13,7 @@ This repository includes some 3D CAD drawings of some Hamamatsu devices:
 - S1226-18BQ : Si detector sealed in a 2 pin TO-18 package. Drawing based in the datasheet information and the measurment of copies of S1226-18BK, S1226-5BQ.
 - S1226-5BQ / S1226-44BQ : Si detector sealed in a 2 pin TO-5 package. Drawing based in the datasheet information and the measurment of copies of S1226-5BQ and S1226-44BQ.
 - S1226-8BQ : Si detector sealed in a 2 pin TO-8 package. Drawing based in the datasheet information and the measurment of copies of S1226-5BQ and S1226-44BQ.
+
+---
+
+- Check Thorlabs repository for THR-101-110 adapter. Adapter between Thorlabs Cage 30 mm, Thorlabs SM1 external tube and Hamamatsu detectors with heatsink of the A3179 series. 
