@@ -16,4 +16,4 @@ This repository includes some 3D CAD drawings of some Hamamatsu devices:
 
 ---
 
-- Check Thorlabs repository for THR-101-110 adapter. Adapter between Thorlabs Cage 30 mm, Thorlabs SM1 external tube and Hamamatsu detectors with heatsink of the A3179 series. 
+- Check Thorlabs repository for THR-101-110 adapter. Adapter between Thorlabs Cage 30 mm, Thorlabs SM1 external tube and Hamamatsu detectors with heatsink of A3179 series. 
